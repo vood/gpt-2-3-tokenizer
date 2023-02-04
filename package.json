@@ -2,7 +2,7 @@
   "name": "gpt-2-3-tokenizer",
   "version": "0.0.1",
   "description": "GPT-2/3 byte pair encoder/decoder/tokenizer based on @latitudegames/GPT-3-Encoder that works in the browser and Deno.",
-  "main": "encoder.js",
+  "main": "mod.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
